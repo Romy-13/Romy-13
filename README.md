@@ -36,8 +36,7 @@ PROGRAMMING LANGUAGES AND TOOLS
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 
-<td align="center" width="25%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+
 </tr>
 </tbody>
 </table>
