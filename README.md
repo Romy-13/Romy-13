@@ -18,8 +18,7 @@ Currently studying the 1st year of the Higher Technician in Programming degree.
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
-<br/>
-PROGRAMMING LANGUAGES AND TOOLS
+LEARNING PROGRAMMING LANGUAJES AND TOOLS
 <br/>
 <table>
 <tbody>
