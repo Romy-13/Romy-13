@@ -21,9 +21,7 @@ Currently studying the 1st year of the Higher Technician in Programming degree.
 I like everything related to the advancement of technology in all areas,
 learn, investigate, look for solutions and above all not give up.
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 LEARNING PROGRAMMING LANGUAJES AND TOOLS
 
@@ -41,17 +39,17 @@ LEARNING PROGRAMMING LANGUAJES AND TOOLS
 
 </tr>
 </tbody>
-</table>
 
-<br> <img src="https://media.giphy.com/media/Romy-13/giphy.gif" width="25"> <b>Github Stats</b>
+
+
 
 <div style="display:grid;align-items:center;justify-content:center">
- <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Romy-13&theme=gotham&count_public=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romy-13&layout=compact&theme=gotham&langs_count=8"/>
+ <img style="height:100%;width:50%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Romy-13&theme=gotham&count_public=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:50%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romy-13&layout=compact&theme=gotham&langs_count=8"/>
 
 </div>
 
 <img src="https://profile-counter.glitch.me/Romy-13/count.svg">
 
-CONTACTO
-<"romirodrigez13@gmail.com">
+Puedes contactarme en [romirodrigez13@gmail.com](mailto:romirodrigez13@gmail.com).
+
