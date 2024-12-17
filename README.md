@@ -13,17 +13,16 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-I am 36 years old.
+I have 36 years old.
 I live in Las Compuertas Luján de Cuyo Mendoza.
 Argentine nationality, born in the Province of San Juan.
-I am a student at UTNSF (National Technological University of San Rafael).
-Currently studying the second year of the Higher Technician in Programming degree.
+I am Tecnique in programatión.
 I like everything related to the advancement of technology in all areas,
 learn, investigate, look for solutions and above all not give up.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-LEARNING PROGRAMMING LANGUAJES AND TOOLS
+PROGRAMMING LANGUAJES AND TOOLS
 
 <td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
