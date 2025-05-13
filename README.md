@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-I have 36 years old.
+I have 37 years old.
 I live in Las Compuertas Luján de Cuyo Mendoza.
 Argentine nationality, born in the Province of San Juan.
 I am Tecnique in programatión.
@@ -51,4 +51,6 @@ PROGRAMMING LANGUAJES AND TOOLS
 <img src="https://profile-counter.glitch.me/Romy-13/count.svg">
 
 Puedes contactarme en [romirodrigez13@gmail.com](mailto:romirodrigez13@gmail.com).
+🔗 [Mi perfil de LinkedIn](https://www.linkedin.com/in/romina-rodríguez-865433292/)
+
 
