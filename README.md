@@ -51,6 +51,6 @@ PROGRAMMING LANGUAJES AND TOOLS
 <img src="https://profile-counter.glitch.me/Romy-13/count.svg">
 
 Puedes contactarme en [romirodrigez13@gmail.com](mailto:romirodrigez13@gmail.com).
-🔗 [Mi perfil de LinkedIn](https://www.linkedin.com/in/romina-rodríguez-865433292/)
+🔗 [Mi perfil de LinkedIn](https://www.linkedin.com/in/romina-rodríguez/)
 
 
